@@ -38,3 +38,15 @@ Once done, you can find the programs at
 
 `mesa_clc` : `_build/src/compiler/clc/mesa_clc` <br>
 `vtn_bindgen2` : `_build/src/compiler/spirv/vtn_bindgen2`
+
+## Integrating
+
+You can check these commits as a reference:
+
+- external/mesa
+
+https://github.com/android-generic/external_mesa/commit/b004769381fc355322d2787e6a5f7aad4f73132f
+
+- glodroid/aospext
+
+https://github.com/android-generic/glodroid_aospext/commit/60b6065998bfc035e2b05eda2e9d26c11bcd72de
